@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ReadingURLfrom properties file]]>
+    </line>
+    <line>
+      <![CDATA[Browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on radio button]]>
+    </line>
+    <line>
+      <![CDATA[Selected the city]]>
+    </line>
+    <line>
+      <![CDATA[Selected the from city from UL list]]>
+    </line>
+    <line>
+      <![CDATA[Selected the city2 from UL list]]>
+    </line>
+    <line>
+      <![CDATA[Selected the to city from UL list]]>
+    </line>
+    <line>
+      <![CDATA[Selected the persons travel from list]]>
+    </line>
+    <line>
+      <![CDATA[Selected child]]>
+    </line>
+    <line>
+      <![CDATA[Selected calender]]>
+    </line>
+    <line>
+      <![CDATA[Selected date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on searched]]>
+    </line>
+    <line>
+      <![CDATA[Sorted]]>
+    </line>
+    <line>
+      <![CDATA[Sorted UL ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on webelement]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on continue button on booking page]]>
+    </line>
+    <line>
+      <![CDATA[Selected gender]]>
+    </line>
+    <line>
+      <![CDATA[Entered first name]]>
+    </line>
+    <line>
+      <![CDATA[Enter lastname]]>
+    </line>
+    <line>
+      <![CDATA[Selected day]]>
+    </line>
+    <line>
+      <![CDATA[Selected month]]>
+    </line>
+    <line>
+      <![CDATA[Selected year]]>
+    </line>
+    <line>
+      <![CDATA[Enter email]]>
+    </line>
+    <line>
+      <![CDATA[Email confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Selected code]]>
+    </line>
+    <line>
+      <![CDATA[Entered mobile number]]>
+    </line>
+    <line>
+      <![CDATA[click on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-04-22T11:41:10 IST" name="Suite" finished-at="2025-04-22T11:42:35 IST" duration-ms="85725">
+    <groups>
+    </groups>
+    <test started-at="2025-04-22T11:41:10 IST" name="Test" finished-at="2025-04-22T11:42:35 IST" duration-ms="85725">
+      <class name="com.AmericanAirline_TestNG.AmericanairlineTestNG">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:com.AmericanAirline_TestNG.AmericanairlineTestNG@3febb011]" started-at="2025-04-22T11:41:10 IST" name="launchbrowser" finished-at="2025-04-22T11:41:15 IST" duration-ms="5513" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ReadingURLfrom properties file]]>
+            </line>
+            <line>
+              <![CDATA[Browser is launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="validate()[pri:0, instance:com.AmericanAirline_TestNG.AmericanairlineTestNG@3febb011]" started-at="2025-04-22T11:41:15 IST" name="validate" finished-at="2025-04-22T11:42:35 IST" duration-ms="80168" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on radio button]]>
+            </line>
+            <line>
+              <![CDATA[Selected the city]]>
+            </line>
+            <line>
+              <![CDATA[Selected the from city from UL list]]>
+            </line>
+            <line>
+              <![CDATA[Selected the city2 from UL list]]>
+            </line>
+            <line>
+              <![CDATA[Selected the to city from UL list]]>
+            </line>
+            <line>
+              <![CDATA[Selected the persons travel from list]]>
+            </line>
+            <line>
+              <![CDATA[Selected child]]>
+            </line>
+            <line>
+              <![CDATA[Selected calender]]>
+            </line>
+            <line>
+              <![CDATA[Selected date]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on searched]]>
+            </line>
+            <line>
+              <![CDATA[Sorted]]>
+            </line>
+            <line>
+              <![CDATA[Sorted UL ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on webelement]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on continue button on booking page]]>
+            </line>
+            <line>
+              <![CDATA[Selected gender]]>
+            </line>
+            <line>
+              <![CDATA[Entered first name]]>
+            </line>
+            <line>
+              <![CDATA[Enter lastname]]>
+            </line>
+            <line>
+              <![CDATA[Selected day]]>
+            </line>
+            <line>
+              <![CDATA[Selected month]]>
+            </line>
+            <line>
+              <![CDATA[Selected year]]>
+            </line>
+            <line>
+              <![CDATA[Enter email]]>
+            </line>
+            <line>
+              <![CDATA[Email confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Selected code]]>
+            </line>
+            <line>
+              <![CDATA[Entered mobile number]]>
+            </line>
+            <line>
+              <![CDATA[click on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validate -->
+      </class> <!-- com.AmericanAirline_TestNG.AmericanairlineTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
