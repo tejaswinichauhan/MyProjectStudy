@@ -5,6 +5,7 @@ import java.time.Duration;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.testng.Reporter;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -91,5 +92,8 @@ public class AmericanairlineTestNG extends Base {
 	  
 	  closebrowser();
 	 // Reporter.log("Browser is closed",true);
+	  
+	  Reporter.log("This is new statement");
+	  Reporter.log("This is 1st cloned project.");
   }
 }
